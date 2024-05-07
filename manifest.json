@@ -4,39 +4,18 @@
   "version": "1.0",
   "manifest_version": 3,
   "permissions": [
-    "bookmarks", "tabs", "commands"
+    "bookmarks", "commands", "tabs", "scripting", "activeTab"
   ],
   "background": {
     "service_worker": "/background.js"
   },
   "commands": {
-    "open-bookmark1-new-tab": {
+    "open-bookmark": {
       "suggested_key": {
         "default": "Alt+1",
         "mac": "Command+1"
       },
-      "description": "Opens bookmark 1 in a new tab"
-    },
-    "open-bookmark2-new-tab": {
-      "suggested_key": {
-        "default": "Alt+2",
-        "mac": "Command+2"
-      },
-      "description": "Opens bookmark 2 in a new tab"
-    },
-    "open-bookmark3-new-tab": {
-      "suggested_key": {
-        "default": "Alt+3",
-        "mac": "Command+3"
-      },
-      "description": "Opens bookmark 3 in a new tab"
-    },
-    "open-bookmark4-new-tab": {
-      "suggested_key": {
-        "default": "Alt+4",
-        "mac": "Command+4"
-      },
-      "description": "Opens bookmark 4 in a new tab"
+      "description": "Toggle shortcut keys for bookmarks"
     }
   },
   "action": {
