@@ -19,7 +19,7 @@ The Bookmark Hotkeys Chrome Extension is designed to enhance your browsing exper
 3. Alternatively, you can scroll through the overlay and click on the desired bookmark link.
 
 ## Feedback and Support
-Your feedback is valuable in improving the extension. If you encounter any issues or have suggestions for new features, please don't hesitate to reach out to us via [email](mailto:chase.forbes14@gmail.com) or [GitHub](https://github.com/bookmark_hotkeys/issues).
+Your feedback is valuable in improving the extension. If you encounter any issues or have suggestions for new features, please don't hesitate to reach out to us via [email](mailto:chase.forbes14@gmail.com) or [GitHub](https://github.com/forbesw17/Bookmark_Hotkeys/issues).
 
 ## Contribute
 If you're interested in contributing to the development of the Bookmark Hotkeys Chrome Extension, you can find the source code on [GitHub](https://github.com/bookmarkhotkeys). We welcome contributions of all forms, whether it's bug fixes, feature enhancements, or translations.
