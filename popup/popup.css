@@ -1,0 +1,28 @@
+
+html, body {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+    height: 200px;
+    font-size: 14px;
+    padding-block: 20px;
+    background-color: #24292e;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: #79b8ff;
+    margin: 0;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+label {
+    color: white;
+} 
